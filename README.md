@@ -4,4 +4,4 @@ TI22 - Latihan GIT Version Control
 Project by : Almaidah Isnaeni
  Mata Kuliah Pengenalan Cloud Computing
 
- edit di branch 1 git
+ edit di branch 1
